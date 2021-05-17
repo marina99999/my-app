@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-##E-Portfolio about React JS
+## E-Portfolio about React JS
 
 How to get started:
 
