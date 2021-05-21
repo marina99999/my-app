@@ -1,0 +1,18 @@
+
+    {
+        "cardData": 
+        [
+
+            {
+                "name":"Bill Gates",
+                "image":"Image1.png",
+                "google":2000
+                
+            },
+            {
+                "name":"Steve Jobs",
+                "image":"Image1.png",
+                "google":2000
+            }
+        ]
+    }
