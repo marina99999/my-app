@@ -23,6 +23,10 @@ and start your project to test with npm start
 
 If you want to look at the detailed description you can go to https://vscode.readthedocs.io/en/latest/nodejs/reactjs-tutorial/
 
+## Demo
+
+If you want to follow the Demo you should load the Code from the Card.js File and follow the instructions from above
+
 ## Available Scripts
 
 In the project directory, you can run:
