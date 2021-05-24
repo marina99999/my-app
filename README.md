@@ -18,7 +18,7 @@ npm install -g create-react-app
 6.Type npx create-react-app my-app -> my-app is the name of your Project you can change that
 This may take a few minutes
 
-7.If it's finished type cd my-app
+7.If it's finished type cd my-app then you have to install bootstrap with: npm install bootstrap
 and start your project to test with npm start
 
 If you want to look at the detailed description you can go to https://vscode.readthedocs.io/en/latest/nodejs/reactjs-tutorial/
