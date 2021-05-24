@@ -1,16 +1,16 @@
 import { useState } from 'react';
-import Card from './Card';
+import Card from './Card.js';
 
 
 export default function CardPair(){
     const [index, setIndex] = useState(0);
     const [clicked, setClicked] = useState(false);
 
-    const handleOnClick = () => {
+    let handleOnClick = () => {
         setClicked(true);
     }
 
-    const onClick = () => {
+    let onClick = () => {
         setIndex(index + 2);
         setClicked(false);
     }
